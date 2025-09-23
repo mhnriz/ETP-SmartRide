@@ -1,1 +1,1 @@
-# Main controller box (ESP32 + GPS + Wi-Fi)
+# Seat sensor box (4 seats per node)
